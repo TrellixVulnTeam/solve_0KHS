@@ -43,6 +43,7 @@ public class No1_the_law_of_large_numbers
             System.out.println("randomNum : " + randomNum);
         }
 
+        // N,M,K 의 값과 배열은 주어지므로 여기부터 시간을 측정한다.
         // 시간 측정을 위한 변수
         long beforeTime = System.currentTimeMillis();
 
